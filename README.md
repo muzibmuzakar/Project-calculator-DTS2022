@@ -1,4 +1,5 @@
-# calculator
-aplikasi calculator menggunakan html-css-javascript
+# DTS 2022 Mini Project Calculator JavaScript
 
-demo https://muzibmuzakar.github.io/calculator/
+Mini Project DTS 2022 membuat aplikasi calculator menggunakan html-css-javascript
+
+demo https://muzibmuzakar.github.io/Project-calculator-DTS2022/
